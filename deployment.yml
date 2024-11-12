@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: javaapp
-        image: shailadocker123/javapp1
+        image: shailadocker123/javapp1:latest
         ports:
         - containerPort: 5000
